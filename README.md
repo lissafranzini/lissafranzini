@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Lissa 😃 </h1>
-<h3 align="center">I'm a software engineer student who is passionate about solving problems using technology. I love discovering new things and my dream is to be able to colaborate with teams using my knowledge about software engineering, people management and agile. Currently, I am studying software development in 42 and working as an agile master in software development teams. <br />
+<h3 align="center">I'm a software engineer student who is passionate about solving problems using technology. I love discovering new things and my dream is to be able to colaborate with teams using my knowledge about software engineering, people management and agile. Currently, I am studying DevOps and working as an agile master in software development teams. <br />
 👩 I'm a cisgender woman and my pronouns are she/her.  <br />
   I believe technology would benefit from greater diversity!</h3>
 
